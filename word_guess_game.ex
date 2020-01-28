@@ -1,4 +1,4 @@
-# Little excercise inspired by lbighetti/littlealchemist.io
+# Little recursion excercise inspired by lbighetti/littlealchemist.io
 
 defmodule WordGuessGame do 
 
